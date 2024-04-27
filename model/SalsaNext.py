@@ -1,3 +1,4 @@
+import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -30,7 +31,7 @@ class BlockI(nn.Module):
         self.conv1 = nn.Conv2d(in_channels, out_channels, kernel_size=1)
         self.relu1 = nn.LeakyReLU()
 
-        self.conv2 = nn.Conv2d(in_channels, out_channels, kernel_size=3, padding=1)
+        self.conv2 = nn.Conv2d(out_channels, out_channels, kernel_size=3, padding=1)
         self.relu2 = nn.LeakyReLU()
         self.bn1 = nn.BatchNorm2d(out_channels)
 
@@ -186,7 +187,7 @@ class SalsaNext(nn.Module):
 
         x = self.conv_down4(x)
         x4 = x
-        x = self.proc_down(x)
+        x = self.proc_down4(x)
 
         x = self.conv_down5(x)
 
