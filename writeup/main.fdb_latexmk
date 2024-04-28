@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1714107545 "main.aux" "main.bbl" "main" 1714107643 0
+["bibtex main"] 1714107545 "main.aux" "main.bbl" "main" 1714326198 0
   "./egbib.bib" 1620879620 2971 4d6cb2afc0a46aea1e444edcdaea4e6a ""
   "./ieee_fullname.bst" 1620879620 19905 72b73f4cb1c51eaa1a7af8ecad2b6bfb ""
-  "main.aux" 1714107642 6633 b145a9c9138e3af164456f404e3f0b60 "pdflatex"
+  "main.aux" 1714326197 6633 b145a9c9138e3af164456f404e3f0b60 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1714107641 "/Users/christopherdavis/Documents/GitHub/point-cloud-segmentation/writeup/main.tex" "main.pdf" "main" 1714107643 0
-  "/Users/christopherdavis/Documents/GitHub/point-cloud-segmentation/writeup/main.tex" 1714107641 21864 cecb7386244be9293a7ee73477fce427 ""
+["pdflatex"] 1714326193 "/Users/christopherdavis/Documents/GitHub/point-cloud-segmentation/writeup/main.tex" "main.pdf" "main" 1714326198 0
+  "/Users/christopherdavis/Documents/GitHub/point-cloud-segmentation/writeup/main.tex" 1714326192 21833 6205e6350354f0dadb4d09d8bc5b424c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -135,11 +135,11 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1706895468 7883457 41cc5b3834ebd5561d6646b854758d93 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "cvpr.sty" 1629731316 22663 ae69ac60d981219f288927532f3b519c ""
-  "main.aux" 1714107642 6633 b145a9c9138e3af164456f404e3f0b60 "pdflatex"
+  "main.aux" 1714326197 6633 b145a9c9138e3af164456f404e3f0b60 "pdflatex"
   "main.bbl" 1714107545 980 a74fd0bbd3df02eb5d0bbc8e50829d4e "bibtex main"
-  "main.brf" 1714107642 466 e35957cbc8b8ed4ec00b8f2a32c92c33 "pdflatex"
-  "main.out" 1714107642 2553 cb3690dc7d6e1dd83b2b28787a950ea9 "pdflatex"
-  "main.tex" 1714107641 21864 cecb7386244be9293a7ee73477fce427 ""
+  "main.brf" 1714326197 466 e35957cbc8b8ed4ec00b8f2a32c92c33 "pdflatex"
+  "main.out" 1714326197 2553 cb3690dc7d6e1dd83b2b28787a950ea9 "pdflatex"
+  "main.tex" 1714326192 21833 6205e6350354f0dadb4d09d8bc5b424c ""
   (generated)
   "main.aux"
   "main.brf"
