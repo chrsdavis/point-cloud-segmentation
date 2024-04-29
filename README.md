@@ -9,7 +9,4 @@ Github: [TiagoCortinhal/SalsaNext](https://github.com/TiagoCortinhal/SalsaNext),
 
 
 ## Abstract
-This paper discusses and rebuilds the existing SalsaNext for semantic segmentation of a full 3D LiDAR point cloud. SalsaNext is the next version of SalsaNet [1] which has an
-encoder-decoder architecture where the encoder unit has a set of ResNet blocks and the decoder part combines upsampled features from the residual blocks. To improve from SalsaNext, it introduces a new context module, replaces the
-ResNet encoder blocks with a new residual dilated convolution stack with gradually increasing receptive fields, and adds the pixel-shuffle layer in the decoder. We also implement the improvement on the Jaccard index by switching
-from stride convolution to average pooling and applying central dropout treatment and combining the weighted cross entropy loss with Lov ́asz-Softmax loss.
+This paper discusses and rebuilds the existing SalsaNext for semantic segmentation of a full 3D LiDAR point cloud. SalsaNext is the next version of SalsaNet which has an encoder-decoder architecture where the encoder unit has a set of ResNet blocks and the decoder part combines upsampled features from the residual blocks. To improve from SalsaNext, it introduces a new context module, replaces the ResNet encoder blocks with a new residual dilated convolution stack with gradually increasing receptive fields, and adds the pixel-shuffle layer in the decoder. We also implement the improvement on the Jaccard index by switching from stride convolution to average pooling, applying central dropout treatment, and combining the weighted cross entropy loss with Lov ́asz-Softmax loss.
