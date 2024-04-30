@@ -1,6 +1,6 @@
 # EECS 442 Computer Vision 
 ### Final Project: Point Cloud Semantic Segmentation with SalsaNext
-##### Group members: Christopher Davis, Fardin Hussain, Alvin Li, Keqian Wang
+##### Group members: Alvin Li, Christopher Davis, Fardin Hussain, Keqian Wang
 
 
 ## Reference
