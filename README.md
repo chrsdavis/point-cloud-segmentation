@@ -7,7 +7,7 @@
 
 Github: [TiagoCortinhal/SalsaNext](https://github.com/TiagoCortinhal/SalsaNext), which is the repo for [SalsaNext: Fast, Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving](https://arxiv.org/abs/2003.03653) CVPR 2020.
 
-Github: [unmannedlab/RELLIS-3D]([https://github.com/TiagoCortinhal/SalsaNext](https://github.com/unmannedlab/RELLIS-3D)), which is the repo for [RELLIS-3D Dataset: Data, Benchmarks and Analysis](https://arxiv.org/abs/2011.12954) CVPR 2020.
+Github: [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D), which is the repo for [RELLIS-3D Dataset: Data, Benchmarks and Analysis](https://arxiv.org/abs/2011.12954) CVPR 2020.
 
 
 ## Abstract
